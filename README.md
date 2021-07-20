@@ -1,5 +1,6 @@
 
 
+
 ## OBI - Olimpíada Brasileira de Informática
 
 A [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/) (OBI) é uma competição de programação realizada anualmente desde 1999 pela [Sociedade Brasileira de Computação](https://www.sbc.org.br/). A organização da OBI está cargo do [Instituto de Computação](http://www.ic.unicamp.br/) da [UNICAMP](http://www.unicamp.br/).
@@ -13,16 +14,16 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 1 - Turno A](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2.pdf)
 	- [ ] [**Acelerador de partículas**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/)
-	- [x] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]]() [?/4]
+	- [x] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]](/2020/fase1-a/fissura.c) [?/4]
 	- [ ] [**Pandemia**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/pandemia/)
 	- [ ] [**Promoção de Primeira**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/promocao/)
 
 * [Fase 1 - Turno B](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2-b.pdf)
 
 	- [ ] [**Camisetas da Olimpíada**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)
-	- [x] [~~Irmãos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/) [[Solução]]() [4/4]
+	- [x] [~~Irmãos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/) [[Solução]](/2020/fase1-b/irmaos.c) [4/4]
 	- [ ] [**Ralouim**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/ralouim/)
-	- [x] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]]() [?/4]
+	- [x] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]](/2020/fase1-b/3por2.c) [?/4]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f2p2.pdf)
 	- [ ] [**Dona Formiga**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/formiga/)
@@ -44,7 +45,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**A idade de Dona Mônica**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/idade/)
 	- [ ] [**Calçada Imperial**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/imperial/)
 	- [ ] [**Chuva**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/chuva/)
-	- [x] [~~Soma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/soma/) [[Solução]]() [2/4]
+	- [x] [~~Soma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/soma/) [[Solução]](2019/fase1/soma.c) [2/4]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2019/provas/ProvaOBI2019_f2p2.pdf)
 	- [ ] [**Detetive**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f2/detetive/)
@@ -63,7 +64,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f1p2.pdf)
 	- [ ] [**Câmara de Compensação**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/compensacao/)
 	- [ ] [**Figurinhas da copa**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/figurinhas/)
-	- [x] [~~Piso da escola~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/piso/) [[Solução]]() [100/100]
+	- [x] [~~Piso da escola~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/piso/) [[Solução]](/2018/fase1/piso.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f2p2.pdf)
 	- [ ] [**Elevador**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f2/elevador/)
@@ -72,7 +73,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f3p2.pdf)
 	- [ ] [**Baldes**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/baldes/)
-	- [x] [~~Bolas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/bolas/) [[Solução]]() [?/100]
+	- [x] [~~Bolas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/bolas/) [[Solução]](/2018/fase3/bolas.c) [?/100]
 	- [ ] [**Cinco**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/cinco/)
 	- [ ] [**Mancha**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/mancha/)
 	- [ ] [**Muro**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/muro/)
@@ -86,9 +87,9 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f2p2.pdf)
 	- [ ] [**Cortando o Papel**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/papel/)
-	- [x] [~~Dario e Xerxes~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/xerxes/) [[Solução]]() [100/100]
+	- [x] [~~Dario e Xerxes~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/xerxes/) [[Solução]](/2017/fase2/xerxes.c) [100/100]
 	- [ ] [**Frete**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/frete/)
-	- [x] [~~Mapa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/mapa/) [[Solução]]() [100/100]
+	- [x] [~~Mapa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/mapa/) [[Solução]](/2017/fase2/mapa.c) [100/100]
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f3p2.pdf)
 	- [ ] [**Arranha-céu**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/arranhaceu/)
@@ -100,26 +101,26 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 <h2>Edição 2016</h2>
 
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2016/provas/ProvaOBI2016_f1p2.pdf)
-	- [x] [~~Chaves~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chaves/) [[solução]]() [100/100]
+	- [x] [~~Chaves~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chaves/) [[solução]](/2016/fase1/chaves.c) [100/100]
 	- [ ] [**Chuva**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chuva/)
-	- [x] [~~Lâmpadas do hotel~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/lampadas-hotel/) [[solução]]() [100/100]
+	- [x] [~~Lâmpadas do hotel~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/lampadas-hotel/) [[solução]](/2016/fase1/lampadas.c) [100/100]
 	- [ ] [**Sanduíche**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/sanduiche/)
-	- [x] [~~Toca do Saci~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/toca-saci/) [[solução]]() [100/100]
+	- [x] [~~Toca do Saci~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/toca-saci/) [[solução]](/2016/fase1/toca.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2016/provas/ProvaOBI2016_f2p2.pdf)
 	- [ ] [**Ciclovias**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/ciclovias/)
 	- [ ] [**Falta uma**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/falta-uma/)
 	- [ ] [**Jardim de Infância**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/jardim/)
-	- [x] [~~Pô, que mão~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/pokemon/) [[solução]]() [100/100]
+	- [x] [~~Pô, que mão~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/pokemon/) [[solução]](/2019/fase2/pokemon.c) [100/100]
 	- [ ] [**Quase primo**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/quase-primo/)
 
 <h2>Edição 2015</h2>
 
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2015/provas/ProvaOBI2015_f1p2.pdf)
 	- [ ] [**Caixinha de Palitos**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/caixinha/)
-	- [x] [~~Cobra Coral~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/coral/) [[solução]]() [100/100]
+	- [x] [~~Cobra Coral~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/coral/) [[solução]](/2015/fase1/coral.c) [100/100]
 	- [ ] [**O Banco Inteligente**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/banco/)
-	- [x] [~~Quebra-cabeça~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/quebra/) [[Solução]]() [100/100]
+	- [x] [~~Quebra-cabeça~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/quebra/) [[Solução]](/2015/fase1/quebra.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2015/provas/ProvaOBI2015_f2p2.pdf)
 	- [ ] [**Chocolate em Barra**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/chocolate/)
