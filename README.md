@@ -1,11 +1,11 @@
 
 
-
+[Work in Progress]
 ## OBI - Olimpíada Brasileira de Informática
 
 A [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/) (OBI) é uma competição de programação realizada anualmente desde 1999 pela [Sociedade Brasileira de Computação](https://www.sbc.org.br/). A organização da OBI está cargo do [Instituto de Computação](http://www.ic.unicamp.br/) da [UNICAMP](http://www.unicamp.br/).
 
-Este repositório contém soluções comentadas de algumas tarefas da Categoria "[Programação Nível 2](https://olimpiada.ic.unicamp.br/pratique/p2/)" em linguagem C a partir da edição de 2015 da OBI, tendo por finalidade fomentar o interesse de mais programadores, alunos e amantes de computação em participarem de olimpíadas e hackathons, além de promover uma discussão acerca de boas práticas de programação, código limpo, análise de algoritmos, estruturas de dados e performance.
+Este repositório contém soluções de algumas tarefas da Categoria "[Programação Nível 2](https://olimpiada.ic.unicamp.br/pratique/p2/)" em linguagem C a partir da edição de 2015 da OBI, tendo por finalidade fomentar o interesse de mais programadores, alunos e amantes de computação em participarem de olimpíadas e hackathons, além de promover uma discussão acerca de boas práticas de programação, código limpo, análise de algoritmos, estruturas de dados e performance.
 
 Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
@@ -63,7 +63,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f1p2.pdf)
 	- [ ] [**Câmara de Compensação**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/compensacao/)
-	- [ ] [**Figurinhas da copa**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/figurinhas/)
+	- [x] [~~Figurinhas da copa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/figurinhas/) [[Solução]](/2018/fase1/figurinhas.c) [100/100]
 	- [x] [~~Piso da escola~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/piso/) [[Solução]](/2018/fase1/piso.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f2p2.pdf)
