@@ -80,7 +80,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 <h2>Edição 2017</h2>
 
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f1p2.pdf)
-	- [x] [~~Botas Trocadas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/botas/) [[Solução]]() [100/100]
+	- [x] [~~Botas Trocadas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/botas/) [[Solução]](botas.c) [100/100]
 	- [ ] [**Game-10**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/game10/)
 	- [ ] [**O Chefe**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/chefe/)
 
