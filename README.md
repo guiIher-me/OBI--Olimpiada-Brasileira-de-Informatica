@@ -1,5 +1,4 @@
 
-
 [Work in Progress]
 ## OBI - Olimpíada Brasileira de Informática
 
@@ -88,7 +87,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f2p2.pdf)
 	- [ ] [**Cortando o Papel**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/papel/)
 	- [x] [~~Dario e Xerxes~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/xerxes/) [[Solução]](/2017/fase2/xerxes.c) [100/100]
-	- [ ] [**Frete**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/frete/)
+	- [x] [~~Frete~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/frete/) [[Solução]](/2017/fase2/frete.c) [100/100]
 	- [x] [~~Mapa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f2/mapa/) [[Solução]](/2017/fase2/mapa.c) [100/100]
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f3p2.pdf)
