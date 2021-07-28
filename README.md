@@ -1,6 +1,5 @@
-
-
 [Work in Progress]
+
 ## OBI - Olimpíada Brasileira de Informática
 
 A [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/) (OBI) é uma competição de programação realizada anualmente desde 1999 pela [Sociedade Brasileira de Computação](https://www.sbc.org.br/). A organização da OBI está cargo do [Instituto de Computação](http://www.ic.unicamp.br/) da [UNICAMP](http://www.unicamp.br/).
@@ -109,7 +108,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2016/provas/ProvaOBI2016_f2p2.pdf)
 	- [ ] [**Ciclovias**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/ciclovias/)
-	- [ ] [**Falta uma**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/falta-uma/)
+	- [x] [~~Falta uma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/falta-uma/) [[Solução]](/2016/fase2/falta.c) [100/100]
 	- [ ] [**Jardim de Infância**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/jardim/)
 	- [x] [~~Pô, que mão~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/pokemon/) [[solução]](/2019/fase2/pokemon.c) [100/100]
 	- [ ] [~~Quase primo~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/quase-primo/) [[Solução]](/2016/fase2/primo.c) [40/100]
@@ -123,8 +122,9 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [x] [~~Quebra-cabeça~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/quebra/) [[Solução]](/2015/fase1/quebra.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2015/provas/ProvaOBI2015_f2p2.pdf)
-	- [ ] [**Chocolate em Barra**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/chocolate/)
+	- [x] [~~Chocolate em Barra~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/chocolate/) [[Solução]](/2015/fase2/chocolate.c) [100/100]
 	- [ ] [**Cálculo**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/calculo/)
 	- [ ] [**Fila**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/fila/)
 	- [ ] [**Macacos me Mordam!**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/macacos/)
 	- [ ] [**Mina**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/mina/)
+
