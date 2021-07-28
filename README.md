@@ -109,7 +109,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2016/provas/ProvaOBI2016_f2p2.pdf)
 	- [ ] [**Ciclovias**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/ciclovias/)
 	- [x] [~~Falta uma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/falta-uma/) [[Solução]](/2016/fase2/falta.c) [100/100]
-	- [ ] [**Jardim de Infância**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/jardim/)
+	- [ ] [**Jardim de Infância**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/jardim/) [TODO]
 	- [x] [~~Pô, que mão~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/pokemon/) [[solução]](/2019/fase2/pokemon.c) [100/100]
 	- [ ] [~~Quase primo~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/quase-primo/) [[Solução]](/2016/fase2/primo.c) [40/100]
 
