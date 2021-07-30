@@ -49,7 +49,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2019/provas/ProvaOBI2019_f2p2.pdf)
 	- [ ] [**Detetive**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f2/detetive/)
 	- [ ] [**Matriz super-legal**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f2/matriz/)
-	- [ ] [**Supermercado**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f2/supermercado/)
+	- [x] [~~Supermercado~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f2/supermercado/) [[Solução]](/2019/fase2/supermercado.c) [5/5]
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2019/provas/ProvaOBI2019_f3p2.pdf)
 	- [ ] [**Etiquetas**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/etiquetas/)
