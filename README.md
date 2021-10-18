@@ -103,7 +103,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [x] [~~Chaves~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chaves/) [[solução]](/2016/fase1/chaves.c) [100/100]
 	- [ ] [**Chuva**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chuva/)
 	- [x] [~~Lâmpadas do hotel~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/lampadas-hotel/) [[solução]](/2016/fase1/lampadas.c) [100/100]
-	- [ ] [**Sanduíche**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/sanduiche/)
+	- [ ] [**Sanduíche**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/sanduiche/) [TODO]
 	- [x] [~~Toca do Saci~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/toca-saci/) [[solução]](/2016/fase1/toca.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2016/provas/ProvaOBI2016_f2p2.pdf)
