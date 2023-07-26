@@ -43,7 +43,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2019/provas/ProvaOBI2019_f1p2.pdf)
 	- [ ] [**A idade de Dona Mônica**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/idade/)
 	- [ ] [**Calçada Imperial**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/imperial/)
-	- [ ] [**Chuva**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/chuva/)
+	- [x] [~~Chuva~~*](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/chuva/) [[Solução]](2019/fase1/chuva.c) [100/100]
 	- [ ] [~~Soma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/soma/) [[Solução]](2019/fase1/soma.c) [2/4]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2019/provas/ProvaOBI2019_f2p2.pdf)
