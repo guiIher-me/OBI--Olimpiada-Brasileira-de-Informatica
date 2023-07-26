@@ -4,7 +4,7 @@
 
 A [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/) (OBI) é uma competição de programação realizada anualmente desde 1999 pela [Sociedade Brasileira de Computação](https://www.sbc.org.br/). A organização da OBI está cargo do [Instituto de Computação](http://www.ic.unicamp.br/) da [UNICAMP](http://www.unicamp.br/).
 
-Este repositório contém soluções de algumas tarefas da Categoria "[Programação Nível 2](https://olimpiada.ic.unicamp.br/pratique/p2/)" em linguagem C a partir da edição de 2015 da OBI, tendo por finalidade fomentar o interesse de mais programadores, alunos e amantes de computação em participarem de olimpíadas e hackathons, além de promover uma discussão acerca de boas práticas de programação, código limpo, análise de algoritmos, estruturas de dados e performance.
+Este repositório contém soluções de algumas tarefas da Categoria "[Programação Nível 2](https://olimpiada.ic.unicamp.br/pratique/p2/)" em linguagem C a partir da edição de 2015 à 2020 da OBI, tendo por finalidade fomentar o interesse de mais programadores, alunos e amantes de computação em participarem de olimpíadas e hackathons, além de promover uma discussão acerca de boas práticas de programação, código limpo, análise de algoritmos, estruturas de dados e performance.
 
 Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
@@ -12,8 +12,8 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 <h2>Edição 2020</h2>
 
 * [Fase 1 - Turno A](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2.pdf)
-	- [ ] [**Acelerador de partículas**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/)
-	- [ ] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]](/2020/fase1-a/fissura.c) [?/4]
+	- [x] [~~Acelerador de partículas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/)  [[Solução]](/2020/fase1-a/acelerador.c) [100/100]
+	- [x] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]](/2020/fase1-a/fissura.c) [?/4]
 	- [ ] [**Pandemia**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/pandemia/)
 	- [ ] [**Promoção de Primeira**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/promocao/)
 
@@ -22,7 +22,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Camisetas da Olimpíada**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)
 	- [x] [~~Irmãos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/) [[Solução]](/2020/fase1-b/irmaos.c) [4/4]
 	- [ ] [**Ralouim**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/ralouim/)
-	- [ ] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]](/2020/fase1-b/3por2.c) [?/4]
+	- [x] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]](/2020/fase1-b/3por2.c) [?/4]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f2p2.pdf)
 	- [ ] [**Dona Formiga**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/formiga/)
