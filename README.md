@@ -14,7 +14,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 1 - Turno A](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2.pdf)
 	- [x] [~~Acelerador de partículas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/)  [[Solução]](/2020/fase1-a/acelerador.c) [100/100]
 	- [x] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]](/2020/fase1-a/fissura.c) [?/4]
-	- [ ] [**Pandemia**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/pandemia/)
+	- [x] [~~Pandemia~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/pandemia/)  [[Solução]](/2020/fase1-a/pandemia.c) [100/100]
 	- [ ] [**Promoção de Primeira**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/promocao/)
 
 * [Fase 1 - Turno B](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2-b.pdf)
