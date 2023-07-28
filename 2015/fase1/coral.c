@@ -6,10 +6,10 @@ int main() {
 	unsigned short int a, b, c, d;
 	scanf("%hu%hu%hu%hu",&a, &b, &c, &d);
 	
-	if(a == c or b == d)
-		printf("V");
-	else
+	if(a == d)
 		printf("F");
+	else
+		printf("V");
 	
 	return 0;
 }
