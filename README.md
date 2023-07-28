@@ -19,7 +19,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 1 - Turno B](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2-b.pdf)
 
-	- [ ] [**Camisetas da Olimpíada**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)
+	- [x] [~~Camisetas da Olimpíada~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)  [[Solução]](/2020/fase1-a/camisetas.c) [100/100]
 	- [x] [~~Irmãos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/) [[Solução]](/2020/fase1-b/irmaos.c) [4/4]
 	- [ ] [**Ralouim**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/ralouim/)
 	- [x] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]](/2020/fase1-b/3por2.c) [?/4]
