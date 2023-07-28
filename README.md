@@ -13,16 +13,16 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 1 - Turno A](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2.pdf)
 	- [x] [~~Acelerador de partículas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/)  [[Solução]](/2020/fase1-a/acelerador.c) [100/100]
-	- [x] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]](/2020/fase1-a/fissura.c) [?/4]
+	- [ ] [~~Fissura Perigosa~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/fissura/)  [[Solução]](/2020/fase1-a/fissura.c) [?/4]
 	- [x] [~~Pandemia~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/pandemia/)  [[Solução]](/2020/fase1-a/pandemia.c) [100/100]
 	- [ ] [**Promoção de Primeira**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/promocao/)
 
 * [Fase 1 - Turno B](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2-b.pdf)
 
-	- [x] [~~Camisetas da Olimpíada~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)  [[Solução]](/2020/fase1-a/camisetas.c) [100/100]
+	- [x] [~~Camisetas da Olimpíada~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)  [[Solução]](/2020/fase1-b/camisetas.c) [100/100]
 	- [x] [~~Irmãos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/) [[Solução]](/2020/fase1-b/irmaos.c) [4/4]
 	- [ ] [**Ralouim**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/ralouim/)
-	- [x] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]](/2020/fase1-b/3por2.c) [?/4]
+	- [ ] [~~Três por Dois~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/3por2/) [[Solução]](/2020/fase1-b/3por2.c) [?/4]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f2p2.pdf)
 	- [ ] [**Dona Formiga**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/formiga/)
@@ -41,7 +41,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 <h2>Edição 2019</h2>
 	
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2019/provas/ProvaOBI2019_f1p2.pdf)
-	- [ ] [**A idade de Dona Mônica**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/idade/)
+	- [x] [~~A idade de Dona Mônica~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/idade/) [[Solução]](2019/fase1/idade.c) [100/100]
 	- [ ] [**Calçada Imperial**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/imperial/)
 	- [x] [~~Chuva~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/chuva/) [[Solução]](2019/fase1/chuva.c) [100/100]
 	- [ ] [~~Soma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/soma/) [[Solução]](2019/fase1/soma.c) [2/4]
@@ -72,7 +72,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f3p2.pdf)
 	- [ ] [**Baldes**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/baldes/)
-	- [x] [~~Bolas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/bolas/) [[Solução]](/2018/fase3/bolas.c) [?/100]
+	- [ ] [~~Bolas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/bolas/) [[Solução]](/2018/fase3/bolas.c) [?/100]
 	- [x] [~~Cinco~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/cinco/) [[Solução]](/2018/fase3/cinco.c) [100/100]
 	- [ ] [**Mancha**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/mancha/)
 	- [ ] [**Muro**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/muro/)
@@ -103,13 +103,13 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [x] [~~Chaves~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chaves/) [[solução]](/2016/fase1/chaves.c) [100/100]
 	- [ ] [**Chuva**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/chuva/)
 	- [x] [~~Lâmpadas do hotel~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/lampadas-hotel/) [[solução]](/2016/fase1/lampadas.c) [100/100]
-	- [ ] [**Sanduíche**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/sanduiche/) [TODO]
+	- [ ] [**Sanduíche**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/sanduiche/)
 	- [x] [~~Toca do Saci~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f1/toca-saci/) [[solução]](/2016/fase1/toca.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2016/provas/ProvaOBI2016_f2p2.pdf)
 	- [ ] [**Ciclovias**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/ciclovias/)
 	- [x] [~~Falta uma~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/falta-uma/) [[Solução]](/2016/fase2/falta.c) [100/100]
-	- [ ] [**Jardim de Infância**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/jardim/) [TODO]
+	- [ ] [**Jardim de Infância**](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/jardim/)
 	- [x] [~~Pô, que mão~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/pokemon/) [[solução]](/2019/fase2/pokemon.c) [100/100]
 	- [ ] [~~Quase primo~~](https://olimpiada.ic.unicamp.br/pratique/p2/2016/f2/quase-primo/) [[Solução]](/2016/fase2/primo.c) [40/100]
 
