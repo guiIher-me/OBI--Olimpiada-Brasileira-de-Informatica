@@ -81,7 +81,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f1p2.pdf)
 	- [x] [~~Botas Trocadas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/botas/) [[Solução]](/2017/fase1/botas.c) [100/100]
-	- [ ] [**Game-10**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/game10/)
+	- [x] [~~Game-10~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/game10/) [[Solução]](/2017/fase1/game10.c) [100/100]
 	- [ ] [**O Chefe**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/chefe/)
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2017/provas/ProvaOBI2017_f2p2.pdf)
@@ -116,7 +116,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 <h2>Edição 2015</h2>
 
 * [Fase 1](https://olimpiada.ic.unicamp.br/static/extras/obi2015/provas/ProvaOBI2015_f1p2.pdf)
-	- [ ] [**Caixinha de Palitos**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/caixinha/)
+	- [x] [~~Caixinha de Palitos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/caixinha/) [[solução]](/2015/fase1/caixinha.c) [100/100]
 	- [x] [~~Cobra Coral~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/coral/) [[solução]](/2015/fase1/coral.c) [100/100]
 	- [ ] [**O Banco Inteligente**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/banco/)
 	- [x] [~~Quebra-cabeça~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f1/quebra/) [[Solução]](/2015/fase1/quebra.c) [100/100]
