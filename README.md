@@ -66,7 +66,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [x] [~~Piso da escola~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f1/piso/) [[Solução]](/2018/fase1/piso.c) [100/100]
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2018/provas/ProvaOBI2018_f2p2.pdf)
-	- [ ] [**Elevador**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f2/elevador/)
+	- [x] [~~Elevador~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f2/elevador/) [[Solução]](/2018/fase2/elevador.c) [100/100]
 	- [ ] [**Fuga**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f2/fuga/)
 	- [ ] [**Wifi**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f2/wifi/)
 
