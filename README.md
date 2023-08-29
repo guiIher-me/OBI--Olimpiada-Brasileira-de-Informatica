@@ -18,7 +18,6 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Promoção de Primeira**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/promocao/)
 
 * [Fase 1 - Turno B](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f1p2-b.pdf)
-
 	- [x] [~~Camisetas da Olimpíada~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/)  [[Solução]](/2020/fase1-b/camisetas.c) [100/100]
 	- [x] [~~Irmãos~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/) [[Solução]](/2020/fase1-b/irmaos.c) [4/4]
 	- [ ] [**Ralouim**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/ralouim/)
@@ -74,7 +73,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Baldes**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/baldes/)
 	- [ ] [~~Bolas~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/bolas/) [[Solução]](/2018/fase3/bolas.c) [?/100]
 	- [x] [~~Cinco~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/cinco/) [[Solução]](/2018/fase3/cinco.c) [100/100]
-	- [ ] [**Mancha**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/mancha/)
+	- [x] [~~Mancha~~](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/mancha/) [[Solução]](/2018/fase3/mancha.c) [100/100]
 	- [ ] [**Muro**](https://olimpiada.ic.unicamp.br/pratique/p2/2018/f3/muro/)
 
 <h2>Edição 2017</h2>
