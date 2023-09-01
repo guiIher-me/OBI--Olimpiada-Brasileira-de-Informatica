@@ -30,7 +30,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Quebra-cabeças**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/quebra/)
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f3p2.pdf)
-	- [ ] [**Atlanta**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/atlanta/)
+	- [x] [~~Atlanta~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/atlanta/) [[Solução]](/2020/fase3/atlanta.c) [100/100]
 	- [ ] [**Candidatas**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/candidatas/)
 	- [ ] [**Jogo do Preto e Branco**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/jogo/)
 	- [ ] [**Rede social**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/rede/)
