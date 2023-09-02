@@ -121,7 +121,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2015/provas/ProvaOBI2015_f2p2.pdf)
 	- [x] [~~Chocolate em Barra~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/chocolate/) [[Solução]](/2015/fase2/chocolate.c) [100/100]
-	- [ ] [**Cálculo**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/calculo/)
+	- [x] [~~Cálculo~~](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/calculo/) [[Solução]](/2015/fase2/calculo.c) [100/100]
 	- [ ] [**Fila**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/fila/)
 	- [ ] [**Macacos me Mordam!**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/macacos/)
 	- [ ] [**Mina**](https://olimpiada.ic.unicamp.br/pratique/p2/2015/f2/mina/)
