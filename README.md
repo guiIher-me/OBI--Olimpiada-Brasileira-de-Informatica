@@ -35,7 +35,6 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Jogo do Preto e Branco**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/jogo/)
 	- [ ] [**Rede social**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/rede/)
 	- [ ] [**Trem da mina**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f3/trem/)
-	- [ ] [**Chuva**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f1/chuva/)
 
 <h2>Edição 2019</h2>
 	
@@ -54,7 +53,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Etiquetas**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/etiquetas/)
 	- [ ] [**Exploração do Capitão Levi**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/exploracao/)
 	- [ ] [**Grand Prix da Nlogônia**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/prix/)
-	- [ ] [**Mesa redonda**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/mesa/)
+	- [x] [~~Mesa redonda~~](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/mesa/) [[Solução]](/2019/fase3/mesa.c) [100/100]
 	- [ ] [**Metrô da Nlogônia**](https://olimpiada.ic.unicamp.br/pratique/p2/2019/f3/metro/)
 
 <h2>Edição 2018</h2>
