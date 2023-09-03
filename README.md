@@ -92,7 +92,8 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 	- [ ] [**Arranha-céu**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/arranhaceu/)
 	- [ ] [**Código**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/codigo/)
 	- [ ] [**Dividindo o império**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/imperio/)
-	- [ ] [**Postes**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/postes/)
+	- [x] [~~Postes~~](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/postes/) [[Solução]](/2017/fase3/postes.c) [100/100]
+
 	- [ ] [**Taxa**](https://olimpiada.ic.unicamp.br/pratique/p2/2017/f3/taxa/)
 
 <h2>Edição 2016</h2>
