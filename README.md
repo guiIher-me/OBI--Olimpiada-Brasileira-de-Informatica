@@ -26,7 +26,7 @@ Veja, a seguir, a lista contendo exercícios já solucionados pelo autor:
 * [Fase 2](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f2p2.pdf)
 	- [ ] [**Dona Formiga**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/formiga/)
 	- [ ] [**Estrada**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/estrada/)
-	- [ ] [**Fotografia**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/fotografia/)
+	- [ ] [~~Fotografia~~](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/fotografia/) [[Solução]](/2020/fase2/fotografia.c) [?/?]
 	- [ ] [**Quebra-cabeças**](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/quebra/)
 
 * [Fase 3](https://olimpiada.ic.unicamp.br/static/extras/obi2020/provas/ProvaOBI2020_f3p2.pdf)
